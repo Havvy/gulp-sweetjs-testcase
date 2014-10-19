@@ -1,0 +1,1 @@
+{"version":3,"file":"a.sjs","names":[],"mappings":"","sources":["a.sjs"],"sourcesContent":["// Dummy file.\n\nmodule.exports = false;"],"sourceRoot":"/source/"}

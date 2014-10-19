@@ -1,0 +1,1 @@
+{"version":3,"file":"b.sjs","names":[],"mappings":"","sources":["b.sjs"],"sourcesContent":["module.exports = {\n\tfail: function () {\n\t\tthrow new Error(\"Should be `in/b.sjs` line 3\");\n\t}\n};"],"sourceRoot":"/source/"}

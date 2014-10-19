@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/havvy/sweetjs/gulp-build-fail/in/a.sjs"],"names":["module","exports","fail","Error"],"mappings":"AAAAA,MAAA,CAAOC,OAAP,GAAiB;AAAA,IAChBC,IAAA,EAAM,YAAY;AAAA,QACjB,MAAM,IAAIC,KAAJ,CAAU,6BAAV,CAAN,CADiB;AAAA,KADF;AAAA,CAAjB","file":"b.js","sourcesContent":["// Dummy file.\n\nmodule.exports = false;"],"sourceRoot":"/source/"}

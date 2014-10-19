@@ -1,0 +1,19 @@
+{
+  "name": "gulp-build-fail",
+  "version": "1.0.0",
+  "description": "Shows a failure for gulp build.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp sweet && node test.js",
+    "sweet": "gulp sweet"
+  },
+  "author": "Ryan Scheel (Havvy)",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "gulp-sourcemaps": "^1.2.4",
+    "gulp-sweetjs": "^0.5.4",
+    "source-map-support": "^0.2.7"
+  },
+  "private": true
+}
