@@ -1,3 +1,7 @@
+This bug has now been fixed. :D
+
+----
+
 Rust `npm test` to see the error in action.
 
 The error is that when compiling multiple files with gulp-sweetjs, and
